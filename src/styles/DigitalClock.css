@@ -1,0 +1,43 @@
+.digital-time{
+
+    font-size:48px;
+
+    font-weight:bold;
+
+    text-align:center;
+
+    margin-top:20px;
+
+    color:#FFD700;
+
+    text-shadow:0 0 15px rgba(255,215,0,.6);
+
+}
+
+.digital-date{
+
+    margin-top:15px;
+
+    text-align:center;
+
+    font-size:20px;
+
+    opacity:.9;
+
+}
+
+.timezone{
+
+    margin-top:20px;
+
+    text-align:center;
+
+    padding:10px;
+
+    border-radius:10px;
+
+    background:rgba(255,255,255,.1);
+
+    font-weight:bold;
+
+}
